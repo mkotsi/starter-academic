@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/Kotsi_CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/Kotsi_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,8 +72,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Maria Kotsi is a computational geophysicist at PanGeo Subsea, where she is playing a leading role on data analysis protocols and technological software developments. Maria believes that there is no final accomplishment in research, just a continuous quest for reasoning. She is always interested in learning new areas and in finding connections between them. Maria received her PhD in Applied Seismology in March 2020 from Memorial University (MUN). She worked under the supervision of Dr. Alison E. Malcolm on time-lapse seismic imaging and used Bayesian inference to quantity the uncertainty of the retrieved time-lapse velocity models. Maria received her MSc in Applied Geophysics from the IDEA League Joint Master’s program, which is an integrated program offered by three different universities: TU Delft (Netherlands), ETH Zurich (Switzerland) and RWTH Aachen (Germany). She is also a holder of a BSc in Geology obtained at Aristotle University of Thessaloniki, AuTh (Greece). Aside her passion for science, Maria loves traveling, outdoor activities and good wine. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
