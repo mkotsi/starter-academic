@@ -37,4 +37,14 @@ experience:
     date_start: '2020-03-15'
     date_end: '2020-11-30'
     description: Work on improving the ability to solve inverse problems in small sub-domains of a region of interest by investigating whether algorithms can be sped up through the incorporation of machine learning techniques.
+    
+  - title: Geophysics Intern
+    company: Equinor Canada Ltd
+    company_url: ''
+    location: St. John's, CA
+    date_start: '2018-05-01'
+    date_end: '2018-08-31'
+    description: Seismic characterization of the overburden for identification and evaluation of potential geohazards in the production area.
+    
+    
 ---
