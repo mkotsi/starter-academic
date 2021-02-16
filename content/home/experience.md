@@ -26,7 +26,7 @@ experience:
     company: PanGeo Subsea
     company_url: ''
     location: St. John's, CA
-    date_start: '2020-12'
+    date_start: '2020-12-01'
     date_end: ''
     description: Provide advance computational geophysical support for ongoing data processing and software related projects.
         
@@ -34,7 +34,7 @@ experience:
     company: Memorial University of Newfoundland
     company_url: ''
     location: St. John's, CA
-    date_start: '2020-03'
-    date_end: '2020-11'
+    date_start: '2020-03-15'
+    date_end: '2020-11-30'
     description: Work on improving the ability to solve inverse problems in small sub-domains of a region of interest by investigating whether algorithms can be sped up through the incorporation of machine learning techniques.
 ---
