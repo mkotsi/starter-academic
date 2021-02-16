@@ -22,24 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Computational Geophysicist
+    company: PanGeo Subsea
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: St. John's, CA
+    date_start: '2020-12'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Provide advance computational geophysical support for ongoing data processing and software related projects.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: PostDoctoral Fellow
+    company: Memorial University of Newfoundland
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: St. John's, CA
+    date_start: '2020-03'
+    date_end: '2020-11'
+    description: Work on improving the ability to solve inverse problems in small sub-domains of a region of interest by investigating whether algorithms can be sped up through the incorporation of machine learning techniques.
 ---
