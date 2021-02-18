@@ -21,7 +21,8 @@ interests:
 - Inverse Problems
 - Statistical Machine Learning 
 - Bayesian Statistics
-- Geophysical Imaging 
+- Geophysical Imaging
+- Climate Change 
 
 
 # Education to show in About widget
