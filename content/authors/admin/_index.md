@@ -22,7 +22,7 @@ interests:
 - Statistical Machine Learning 
 - Bayesian Statistics
 - Geophysical Imaging 
-- Time Lapse Seismic
+
 
 # Education to show in About widget
 education:
@@ -66,7 +66,7 @@ social:
 #   link: media/Kotsi_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mkotsi@mun.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -74,4 +74,4 @@ highlight_name: false
 
 Maria Kotsi is a computational geophysicist at PanGeo Subsea, where she is playing a leading role on data analysis protocols and technological software developments. Maria believes that there is no final accomplishment in research, just a continuous quest for reasoning. She is always interested in learning new areas and in finding connections between them. Maria received her PhD in Applied Seismology in March 2020 from Memorial University (MUN). She worked under the supervision of Dr. Alison E. Malcolm on time-lapse seismic imaging and used Bayesian inference to quantity the uncertainty of the retrieved time-lapse velocity models. Maria received her MSc in Applied Geophysics from the IDEA League Joint Master’s program, which is an integrated program offered by three different universities: TU Delft (Netherlands), ETH Zurich (Switzerland) and RWTH Aachen (Germany). She is also a holder of a BSc in Geology obtained at Aristotle University of Thessaloniki, AuTh (Greece). Aside her passion for science, Maria loves traveling, outdoor activities and good wine. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
