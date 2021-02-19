@@ -38,7 +38,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://academic.oup.com/gji/article-abstract/222/2/1245/5838038'
-url_code: ''
+url_code: 'https://github.com/mkotsi/TimeLapse_UQ_localsolver-master'
 url_dataset: ''
 url_poster: ''
 url_project: ''
