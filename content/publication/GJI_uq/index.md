@@ -9,7 +9,7 @@ authors:
 - Alison Malcolm
 - Gregory Ely
 
-date: ""
+date: "2020-05-16"
 doi: "10.1093/gji/ggaa245"
 
 # Schedule page publish date (NOT publication's date).
