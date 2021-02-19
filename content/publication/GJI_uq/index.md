@@ -9,16 +9,11 @@ authors:
 - Alison Malcolm
 - Gregory Ely
 
-# Author notes (optional)
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+date: ""
 doi: "10.1093/gji/ggaa245"
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,9 +26,6 @@ publication: In *Geophysical Journal International*
 publication_short: In *GJI*
 
 abstract: Time-lapse seismic monitoring using full-wavefield methods aims to accurately and robustly image rock and fluid changes within a reservoir. These changes are typically small and localized. Quantifying the uncertainty related to these changes is crucial for decision making, but traditional methods that use pixel by pixel uncertainty quantification with large models are computationally infeasible. We exploit the structure of the time-lapse seismic problem for fast wavefield computations using a numerically exact local acoustic solver. This allows us to perform a Bayesian inversion using a Metropolis–Hastings algorithm to sample our posterior distribution. We address the well-known dimensionality problem in global optimization using an image compression technique. We run our numerical experiments using a single shot and a single frequency, however we show that various frequencies converge to different local minima. In addition, we test our framework for both uncorrelated and correlated noise, and we retrieve different histograms for each noise type. Through our numerical examples we show the importance of defining quantities of interest in order to setup an appropriate uncertainty quantification framework involving choosing the number of degrees of freedom and model parametrization that best approximate the problem. To our knowledge, there is no work in the literature studying the time-lapse problem using stochastic full-waveform inversion.
-
-# Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: ["Inverse Theory", "Probability distributions", "Waveform Inversion", "Computational Seismology", "Controlled source seismology", "Statistical seismology"]
 
