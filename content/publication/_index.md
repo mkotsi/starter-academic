@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Peer Reviewed Journal Publications
 cms_exclude: true
 
 # View.
