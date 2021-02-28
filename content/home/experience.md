@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Computational Geophysicist
     company: PanGeo Subsea
-    company_url: ''
+    company_url: 'https://www.pangeosubsea.com/'
     location: St. John's, CA
     date_start: '2020-12-01'
     date_end: ''
@@ -32,7 +32,7 @@ experience:
         
   - title: PostDoctoral Fellow
     company: Memorial University of Newfoundland
-    company_url: ''
+    company_url: 'https://www.mun.ca/earthsciences/'
     location: St. John's, CA
     date_start: '2020-03-15'
     date_end: '2020-11-30'
@@ -40,11 +40,20 @@ experience:
     
   - title: Geophysics Intern
     company: Equinor Canada Ltd
-    company_url: ''
+    company_url: 'https://www.equinor.com/en/where-we-are/canada.html'
     location: St. John's, CA
     date_start: '2018-05-01'
     date_end: '2018-08-31'
     description: Seismic characterization of the overburden for identification and evaluation of potential geohazards in the production area.
+    
+  - title: Geophysics Intern
+    company: Geoscience Research Centre (GRC), TOTAL E&P
+    company_url: 'https://www.total.uk/total-uk/better-energy-projects-uk/collaboration-key-unlocking-better-energy-geoscience-research-centre'
+    location: Aberdeen, UK
+    date_start: '2017-05-01'
+    date_end: '2017-10-31'
+    description: Investigate the potential to adapt depth imaging methods to estimate 4D attributes, such as velocity change, time shifts, and strain.
+    
     
     
 ---
