@@ -54,6 +54,27 @@ experience:
     date_end: '2017-10-31'
     description: Investigate the potential to adapt depth imaging methods to estimate 4D attributes, such as velocity change, time shifts, and strain.
     
+  - title: Geophysics Intern
+    company: Deltares
+    company_url: 'https://www.deltares.nl/en/'
+    location: Utrecht, NL
+    date_start: '2014-03-01'
+    date_end: '2014-08-31'
+    description: Processing of marine seismic data with emphasis on the influence of variable bathymetry on generation and propagation of Scholte waves (related to MSc thesis)
     
+  - title: Field Assistant
+    company: ETH
+    company_url: 'https://erdw.ethz.ch/en/'
+    location: Neuhausen, CH
+    date_start: '2013-07-01'
+    date_end: '2013-08-31'
+    description: Assisting on seismic surveys to map the geometry of a postulated Quaternary valley and construct a geophysical model of the valley infill.
     
+  - title: Geophysics Intern
+    company: Greek Institute of Geology and Mineral Exploration (IGME)
+    company_url: 'https://www.igme.gr/index.php/en/'
+    location: Athens, GR
+    date_start: '2011-07-01'
+    date_end: '2011-09-30'
+    description: Theoretical and practical training on geophysical exploration methods such as Electrical resistivity/tomography, I.P., magnetic and gravity, field work, testing equipment and undertaking maintenance.
 ---
