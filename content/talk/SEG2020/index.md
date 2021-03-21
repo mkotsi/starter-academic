@@ -14,7 +14,7 @@ address=""
 
 abstract= "Uncertainty quantification is an important aspect of time–lapse imaging and is typically done using Bayesian inference. Traditional random–walk sampling methods are slow to converge and they fail to efficiently explore the high dimensional space that must be characterized in time-lapse imaging. We propose the use of a local acoustic Helmholtz solver for an efficient time–lapse Hamiltonian Monte Carlo (HMC) inversion. Using a local acoustic solver offers the advantage of quick and local gradient computations. Our numerical models demonstrate the robustness of the method over the Metropolis–Hastings algorithm, and set up the path towards non–linear uncertainty quantification of high dimensional velocity models. To our knowledge this is the first direct comparison of Metropolis–Hastings and HMC on a seismic example."
 
-authors=[Maria Kotsi, Alison Malcolm, Gregory Ely]
+authors=["Maria Kotsi", "Alison Malcolm", "Gregory Ely"]
 
 tags= ["time-lapse", "uncertainty quantification", "Hamiltonian Monte Carlo", "FWI"]
 
