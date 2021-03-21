@@ -5,7 +5,7 @@ event= "90th SEG Annual Meeting and International Exposition"
 event_url="https://seg.org/AM/2020/"
 
 location= "Virtual Event"
-address:""
+address=""
   street= ""
   city= ""
   region= ""
