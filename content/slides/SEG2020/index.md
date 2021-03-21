@@ -23,12 +23,12 @@ categories: []
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: ""
+date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 
 
@@ -36,13 +36,13 @@ publishDate: "2017-01-01T00:00:00Z"
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "static/media/MK_AM_GE_SEG2020.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -50,7 +50,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "MK_AM_GE_SEG2020"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
