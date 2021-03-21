@@ -36,7 +36,7 @@ featured= false
 
 url_code= ""
 url_pdf= ""
-url_slides= "/static/media/MK_AM_GE_SEG2020.pdf"
+url_slides= "/media/MK_AM_GE_SEG2020.pdf"
 url_video=""
 
 # Markdown Slides (optional).
