@@ -1,16 +1,17 @@
 ---
-title: "Uncertainty quantification in time-lapse seismic imaging: a full-waveform approach"
+title: "Combining reflection and transmission information in time-lapse velocity inversion: A new hybrid approach"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Maria Kotsi
+- Jonathan Edgar
 - Alison Malcolm
-- Gregory Ely
+- Sjoerd de Ridder
 
-date: "2020-05-16"
-doi: "10.1093/gji/ggaa245"
+date: "2019-06-18"
+doi: "10.1190/geo2018-0086.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -22,23 +23,23 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Geophysical Journal International*
-publication_short: In *GJI*
+publication: In *Geophysics*
+publication_short: In *Geophysics*
 
-abstract: Time-lapse seismic monitoring using full-wavefield methods aims to accurately and robustly image rock and fluid changes within a reservoir. These changes are typically small and localized. Quantifying the uncertainty related to these changes is crucial for decision making, but traditional methods that use pixel by pixel uncertainty quantification with large models are computationally infeasible. We exploit the structure of the time-lapse seismic problem for fast wavefield computations using a numerically exact local acoustic solver. This allows us to perform a Bayesian inversion using a Metropolis–Hastings algorithm to sample our posterior distribution. We address the well-known dimensionality problem in global optimization using an image compression technique. We run our numerical experiments using a single shot and a single frequency, however we show that various frequencies converge to different local minima. In addition, we test our framework for both uncorrelated and correlated noise, and we retrieve different histograms for each noise type. Through our numerical examples we show the importance of defining quantities of interest in order to setup an appropriate uncertainty quantification framework involving choosing the number of degrees of freedom and model parametrization that best approximate the problem. To our knowledge, there is no work in the literature studying the time-lapse problem using stochastic full-waveform inversion.
+abstract: Full-waveform inversion (FWI) uses the information of the full wavefield to deliver high-resolution images of the subsurface. Conventional time-lapse FWI primarily uses the transmitted component (diving waves) of the wavefield to reconstruct the low-wavenumber component of the velocity model. This requires large-offset surveys and low-frequency data. When the target of interest is deep, diving waves cannot reach the target and FWI will be dominated by the reflected component of the wavefield. Consequently, the retrieved model resembles a least-squares migration instead of a velocity model. Image-domain methods, especially image-domain wavefield tomography (IDWT), have been developed to obtain a model of time-lapse velocity changes in deeper targets using reflected waves. The method is able to recover models of deep targets. However, it also tends to obtain smeared time-lapse velocity changes. We have developed a form of time-lapse waveform inversion that we call dual-domain time-lapse waveform inversion (DDWI), whose objective function joins FWI and IDWT, combining information from the diving waves in the data-domain FWI term with information from the reflected waves in the image-domain IDWT term. During the nonlinear inversion, the velocity model is updated using constraints from both terms simultaneously. Similar to sequential time-lapse waveform inversion, we start the time-lapse inversion from a baseline model recovered with FWI. We test DDWI on a variety of synthetic models of increasing complexity and find that it can recover time-lapse velocity changes more accurately than when both methods are used independently or sequentially.
 
-tags: ["Inverse Theory", "Probability distributions", "Waveform Inversion", "Computational Seismology", "Controlled source seismology", "Statistical seismology"]
+tags: ["Full Waveform Inversion", "Time Lapse Seismic Imaging", "Image Domain Waveform Inversion",  "Controlled source seismology"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://academic.oup.com/gji/article-abstract/222/2/1245/5838038'
-url_code: 'https://github.com/mkotsi/TimeLapse_UQ_localsolver-master'
+url_pdf: 'https://library.seg.org/doi/10.1190/geo2018-0086.1'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
