@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Presentations'
-subtitle:
+title: 'Scientific Events'
+subtitle: 'This is a list of the conferences and workshops that I attended and/or contributed to. For each item, you can find additional information and links by opening the event’s page.'
 
 content:
   # Page type to display. E.g. post, event, publication...
