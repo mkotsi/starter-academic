@@ -1,5 +1,5 @@
 +++
-title= Time–lapse Full–Waveform Inversion using Hamiltonian Monte Carlo: A proof of concept
+title=" Time–lapse Full–Waveform Inversion using Hamiltonian Monte Carlo: A proof of concept"
 
 event= 90th SEG Annual Meeting and International Exposition
 event_url=https://seg.org/AM/2020/
