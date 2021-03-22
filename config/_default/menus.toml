@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Conferences"
-  url = "#slides"
+  url = "/slides/"
   weight = 4
 
 #[[main]]
