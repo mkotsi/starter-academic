@@ -15,7 +15,7 @@ subtitle: 'This is a list of the conferences and workshops that I attended and/o
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: conferences
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria
