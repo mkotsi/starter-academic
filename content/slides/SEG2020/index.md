@@ -35,7 +35,7 @@ featured= false
 
 
 url_code= ""
-url_pdf= ""
+url_pdf= "https://library.seg.org/doi/10.1190/segam2020-3422774.1"
 url_slides= "/media/MK_AM_GE_SEG2020.pdf"
 url_video=""
 
