@@ -23,9 +23,9 @@ categories=[]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date=""
-date_end= ""
-all_day=false
+date="2020-10-11"
+date_end= "2020-10-16"
+all_day=true
 
 # Schedule page publish date (NOT talk date).
 publishDate= ""
