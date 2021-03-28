@@ -31,7 +31,7 @@ featured: false
 url_code: ""
 url_pdf: "https://library.seg.org/doi/10.1190/segam2019-3215046.1"
 url_slides: "/media/2019_SEG.pdf"
-url_video:""
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -45,7 +45,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects : ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects : []`.
-projects:[]
+projects: []
 
 ---
 
