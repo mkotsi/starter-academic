@@ -17,9 +17,9 @@ categories: []
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date:"2019-09-15"
+date: "2019-09-15"
 date_end: "2019-09-20"
-all_day:true
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
