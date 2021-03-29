@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Conferences"
-  url = "#talk"
+  url = "/talk/"
   weight = 4
 
 #[[main]]
