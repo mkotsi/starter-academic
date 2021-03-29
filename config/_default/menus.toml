@@ -18,10 +18,10 @@
   #url = "#projects"
   #weight = 3
 
-#[[main]]
-#  name = "Conferences"
-#  url = "/talk/"
-#  weight = 4
+[[main]]
+  name = "Conferences"
+  url = "/talk/"
+  weight = 4
 
 #[[main]]
  # name = "Talks"
