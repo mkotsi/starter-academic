@@ -16,12 +16,12 @@
 #[[main]]
  # name = "Projects"
   #url = "#projects"
-  #weight = 30
+  #weight = 3
 
-[[main]]
-  name = "Conferences"
-  url = "/slides/"
-  weight = 4
+#[[main]]
+#  name = "Conferences"
+#  url = "/talk/"
+#  weight = 4
 
 #[[main]]
  # name = "Talks"
