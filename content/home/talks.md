@@ -4,11 +4,15 @@
 widget: "pages"
 active: false
 
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 4
+
+# Page type to display. E.g. post, talk, or publication.
+page_type: "talk"
 
 title: 'Scientific Events'
 subtitle: 'This is a list of the conferences and workshops that I attended and/or contributed to. For each item, you can find additional information and links by opening the event’s page.'
@@ -18,6 +22,7 @@ content:
   page_type: conferences
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
+  
   # Filter on criteria
   filters:
     author: ""
@@ -27,8 +32,10 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ""
+  
   # Choose how many pages you would like to offset by
   offset: 0
+  
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
