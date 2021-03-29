@@ -1,18 +1,15 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: "pages"
+widget: pages
 active: false
 
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 4
-
-# Page type to display. E.g. post, talk, or publication.
-page_type: "talk"
+weight: 40
 
 title: 'Scientific Events'
 subtitle: 'This is a list of the conferences and workshops that I attended and/or contributed to. For each item, you can find additional information and links by opening the event’s page.'
